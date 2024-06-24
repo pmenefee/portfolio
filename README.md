@@ -5,10 +5,10 @@
 <br />paul.menefee@gmail.com
 <br />[linkedin.com/in/paulmenefee](http://www.linkedin.com/in/paulmenefee)
  
-Skilled professional with more than 20 years in the technology industry including team leadership and application design. Strong software developmental, communication and organizational skills. Proven ability to design and implement large scale technology-based solutions for business problems. Strong knowledge of key business processes, systems integration, Agile, and SDLC methodologies. 
+Skilled professional with more than 20 years in the technology industry including team leadership and application design. Strong software development, communication and organizational skills. Proven ability to design and implement large scale technology-based solutions for business problems. Strong knowledge of key business processes, systems integration, Agile, and SDLC methodologies. 
 
 ## KEY COMPETENCIES
-Enterprise Architecture | Team Leadership | Java | C# |SQL | MySQL | Jenkins | CDCI design | Peer Review | Agile | SCRUM 
+Enterprise Architecture | Team Leadership | Java | C# | SQL | MySQL | Jenkins | CICD Design | Peer Review | Agile | SCRUM 
  
 ## PROFESSIONAL EXPERIENCE 
  
